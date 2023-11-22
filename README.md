@@ -1,2 +1,2 @@
 # Aulas-do-valdecir
-Dick on ass of who is reading
+Resolving Java exercises in this repository :)
